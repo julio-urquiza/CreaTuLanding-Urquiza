@@ -9,7 +9,7 @@ const NavBar = () => {
                 <button>carrito</button>
                 <button>contacto</button>
             </div>
-            <CartWidget />
+            {/* <CartWidget /> */}
         </nav>
     )
 }
